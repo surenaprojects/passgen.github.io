@@ -1,12 +1,12 @@
-# 🔐 PassGen
+# 🔐 VaultKey
 
 A fast, simple, and secure password generator — built and hosted with GitHub Pages.
 
-🔗 **Live demo:** [passgen.github.io](https://surenaprojects.github.io/passgen.github.io/)
+🔗 **Live demo:** [vaultkey.github.io](https://surenaprojects.github.io/vaultkey.github.io/)
 
 ## 📸 Screenshot
 
-![PassGen Screenshot](screenshot.png)
+![VaultKey Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -21,13 +21,13 @@ A fast, simple, and secure password generator — built and hosted with GitHub P
 
 ### Use it online
 
-Just visit [passgen.github.io](https://surenaprojects.github.io/passgen.github.io/) — no setup needed.
+Just visit [vaultkey.github.io](https://surenaprojects.github.io/vaultkey.github.io/) — no setup needed.
 
 ### Run it locally
 
 ```bash
-git clone https://github.com/surenaprojects/passgen.github.io.git
-cd passgen.github.io
+git clone https://github.com/surenaprojects/vaultkey.github.io.git
+cd vaultkey.github.io
 ```
 
 Then open `index.html` in your browser, or serve it locally:
@@ -47,7 +47,7 @@ Visit `http://localhost:8000` in your browser.
 ## 📂 Project Structure
 
 ```
-passgen.github.io/
+vaultkey.github.io/
 ├── index.html
 ├── style.css
 ├── script.js
