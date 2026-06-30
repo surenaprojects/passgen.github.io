@@ -2,7 +2,7 @@
 
 A fast, simple, and secure password generator — built and hosted with GitHub Pages.
 
-🔗 **Live demo:** [passgen.github.io](https://passgen.github.io)
+🔗 **Live demo:** [passgen.github.io](https://surenaprojects.github.io/passgen.github.io/)
 
 ## 📸 Screenshot
 
@@ -21,7 +21,7 @@ A fast, simple, and secure password generator — built and hosted with GitHub P
 
 ### Use it online
 
-Just visit [passgen.github.io](https://passgen.github.io) — no setup needed.
+Just visit [passgen.github.io](https://surenaprojects.github.io/passgen.github.io/) — no setup needed.
 
 ### Run it locally
 
